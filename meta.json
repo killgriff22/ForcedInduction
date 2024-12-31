@@ -1,6 +1,6 @@
 {
   "name": "Volumetric Tuning",
-  "desc": "Use <b>Tab</b> to select a crank\nThere is a table inside the code that lets you modify how much the Peak Volumetric Efficiency RPM is decreased based on RPM and % of the <b>base</b> Peak Volumetric Efficiency\n",
+  "desc": "Template Tune\npress <b>Tab</b> on a construction to select it\n dropdowns let you change what inputs and outputs are used in the tune\ntext boxes let you scale the inputs and outputs",
   "tags": [
     "Tuning"
   ],
