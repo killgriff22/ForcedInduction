@@ -1,8 +1,8 @@
 {
-  "name": "Forced Induction",
-  "desc": "Proof of concept, works in moving vehicles, no rpm limit.\nPress tab to select a block, press w to apply the Force",
+  "name": "Volumetric Tuning",
+  "desc": "Use <b>Tab</b> to select a crank\nThere is a table inside the code that lets you modify how much the Peak Volumetric Efficiency RPM is decreased based on RPM and % of the <b>base</b> Peak Volumetric Efficiency\n",
   "tags": [
-    "example"
+    "Tuning"
   ],
   "publishedID": 3394381750
 }

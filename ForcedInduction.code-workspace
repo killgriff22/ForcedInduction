@@ -11,6 +11,15 @@
 		},
 		{
 			"path": "../../../../../../../../Program Files (x86)/Steam/steamapps/common/GearBlocks/GearBlocks_Data/StreamingAssets/ScriptMods/PartCollision"
+		},
+		{
+			"path": "../../../../../../../../Program Files (x86)/Steam/steamapps/workshop/content/1305080/3387717315"
+		},
+		{
+			"path": "../../../../../../../../Program Files (x86)/Steam/steamapps/common/GearBlocks/GearBlocks_Data/StreamingAssets/ScriptMods/UIShapesTest"
+		},
+		{
+			"path": "../../../../../../../../Program Files (x86)/Steam/steamapps/common/GearBlocks/GearBlocks_Data/StreamingAssets/ScriptMods/EngineTool"
 		}
 	],
 	"settings": {}
