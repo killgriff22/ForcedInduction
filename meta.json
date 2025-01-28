@@ -1,5 +1,5 @@
 {
-  "name": "Volumetric Tuning",
+  "name": "Volumetric Tuning Example",
   "desc": "Template Tune\npress <b>Tab</b> on a construction to select it\n dropdowns let you change what inputs and outputs are used in the tune\ntext boxes let you scale the inputs and outputs",
   "tags": [
     "Tuning"
